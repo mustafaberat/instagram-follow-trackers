@@ -1,0 +1,7 @@
+// HOW IT WORKS: paste chrome console
+
+function NewTab() {
+  window.open("https://www.instagram.com/mustafaberatt", "_blank");
+}
+
+NewTab();
